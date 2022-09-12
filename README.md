@@ -1,2 +1,2 @@
 # Interior-Point-Method-Linear-Programming-
-Four classical interior point method to solve LP are implemented using Matlab, which are affine scaling, potential reduction, primal following and primal-dual following algorithm
+Four classical interior point method to solve LP are implemented using Matlab, which are affine scaling, potential reduction, primal following and primal-dual following algorithm. All of the methods refer to the chapter 9 of the book "Introduction to linear optimization", and it's interesting to see the trajectories of different algorithms to reach the optimal solution.(by saving the projection of the solution vector at the first two dimensions in each iteration)
